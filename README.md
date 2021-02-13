@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rustamali9183
+- 👋 Hi, I’m Rustam Ali
 - 👀 I’m interested in machine learning, deep learning and data science
 - 🌱 I’m currently learning tensorflow and other machine learning library
 - 💞️ I’m looking to collaborate on data science and machine learning project
